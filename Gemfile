@@ -50,7 +50,7 @@ gem 'sidekiq', '~> 4.1.0'
 gem 'sinatra'
 gem 'octicons_helper', git: 'https://github.com/primer/octicons_helper.git', ref: 'fa28cb06c67ce0a1974a9e3238483d79157503c2'
 
-gem 'turbolinks', '~> 2.5.3'
+gem 'turbolinks', '~> 5.0.0'
 
 gem 'uglifier', '>= 1.3.0'
 
